@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "accuracy": "high",
+            "dist_km": "na",
+            "iff": "foe",
+            "lat": 43.517573999843826,
+            "lon": -112.91033999997805,
+            "rf_function": [
+                {
+                    "ant_beam_az": 300.0,
+                    "ant_beam_el": 0,
+                    "ant_beam_width": 60,
+                    "ant_type": "array",
+                    "bw_hz": 10000000.0,
+                    "fc_hz": 1500000000.0,
+                    "pwr_dbm": 50,
+                    "range_km": 25,
+                    "sector": 1,
+                    "status": "active",
+                    "tag": "ES"
+                },
+                {
+                    "ant_beam_az": 0,
+                    "ant_beam_el": 0,
+                    "ant_beam_width": 0,
+                    "ant_type": "omni",
+                    "bw_hz": 10000000.0,
+                    "fc_hz": 1500000000.0,
+                    "pwr_dbm": 74,
+                    "range_km": 25,
+                    "sector": 2,
+                    "status": "off",
+                    "tag": "EA0"
+                },
+                {
+                    "ant_beam_az": 0,
+                    "ant_beam_el": 0,
+                    "ant_beam_width": 60,
+                    "ant_type": "array",
+                    "bw_hz": 10000000.0,
+                    "fc_hz": 1500000000.0,
+                    "pwr_dbm": 74,
+                    "range_km": 25,
+                    "sector": 3,
+                    "status": "off",
+                    "tag": "EA1"
+                }
+            ],
+            "tag": "EW",
+            "time": "2021-01-25T17:51:41.622Z"
+        }
+    ],
+    "isa_id": "test1",
+    "ver": "1"
+}

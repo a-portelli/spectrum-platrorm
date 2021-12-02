@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "accuracy": "high",
+            "dist_km": "na",
+            "iff": "friendly",
+            "lat": 43.54484299691058,
+            "lon": -113.15784627163441,
+            "rf_function": [
+                {
+                    "ant_beam_az": 0,
+                    "ant_beam_el": 0,
+                    "ant_beam_width": 0,
+                    "ant_type": "omni",
+                    "bw_hz": 3200000.0,
+                    "fc_hz": 1500000000.0,
+                    "pwr_dbm": 37,
+                    "range_km": 0,
+                    "sector": 1,
+                    "status": "active",
+                    "tag": "RX",
+                    "type": "comms"
+                }
+            ],
+            "tag": "NodeB",
+            "time": "2021-01-25T17:51:47.322Z"
+        }
+    ],
+    "isa_id": "test1",
+    "ver": "1"
+}

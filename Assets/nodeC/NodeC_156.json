@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "accuracy": "high",
+            "dist_km": "na",
+            "iff": "friendly",
+            "lat": 43.50644852808896,
+            "lon": -113.21953461420871,
+            "rf_function": [
+                {
+                    "ant_beam_az": 0,
+                    "ant_beam_el": 0,
+                    "ant_beam_width": 0,
+                    "ant_type": "omni",
+                    "bw_hz": 3200000.0,
+                    "fc_hz": 1500000000.0,
+                    "pwr_dbm": 45,
+                    "range_km": 5.4,
+                    "sector": 1,
+                    "status": "active",
+                    "tag": "TX",
+                    "type": "comms"
+                }
+            ],
+            "tag": "NodeC",
+            "time": "2021-01-25T17:51:36.222Z"
+        }
+    ],
+    "isa_id": "test1",
+    "ver": "1"
+}
